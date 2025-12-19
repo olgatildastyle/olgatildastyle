@@ -35,9 +35,8 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 
 
-📫 How to reach me:  
 
-## 📫 Connect with me
+## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-demchenko-45b796396/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-1CA9E9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@olga_tildastyle)
 [![Email](https://img.shields.io/badge/Email-send-FF4B4B?style=flat-square&logo=gmail&logoColor=white)](mailto:olga.tildastyle@gmail.com)
