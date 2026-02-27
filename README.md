@@ -23,6 +23,8 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 💻Featured Projects  
 
+[Little Paws Haven](https://dm1trr1y.github.io/kindcode-project/): a team-based frontend project built as a single-page website. The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews). 
+
 [Coffe Joy](https://wiktor-bruy.github.io/webee-project/)  A coffee shop web application created using HTML, CSS, and JavaScript. Implemented features include community subscription, detailed information about the coffee shop, and a modal window.
 
 [WebStudio](https://olgatildastyle.github.io/goit-markup-hw-06/) A responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections. 
@@ -37,8 +39,8 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-demchenko-45b796396/)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-1CA9E9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@olga_tildastyle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-demchenko-olha/)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-1CA9E9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/olga_tildastyle)
 [![Email](https://img.shields.io/badge/Email-send-FF4B4B?style=flat-square&logo=gmail&logoColor=white)](mailto:olga.tildastyle@gmail.com)
 
 
