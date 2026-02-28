@@ -29,12 +29,16 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 💻Featured Projects  
 
+[NoteHub](https://06-notehub-nextjs-eb030xmxv-olga-demchenkos-projects.vercel.app/): This project is a NoteHub Next.js application — a modern note-taking web app built with Next.js. It allows users to create, view, edit, and delete notes within a responsive and intuitive interface. The app highlights server-side rendering, dynamic routing, and efficient state management, showcasing practical experience with Next.js features and modern frontend development.
+
+[React Query](https://04-react-query-sigma-orpin.vercel.app/): This project is a React application built with TanStack React Query for efficient data fetching, caching, and server state management. It demonstrates modern approaches to working with asynchronous data, including API integration, loading and error handling, and optimized performance through built-in caching. The application highlights component-based architecture, clean code structure, and a responsive user interface.
+
+[React Movies](https://03-react-movies-kappa-inky.vercel.app/): This project is a **React Movie Search Application** that allows users to browse trending movies, search by title, and view detailed information such as ratings, overview, cast, and reviews. The application uses modern React features, including routing, API integration, and dynamic data rendering to provide a smooth and interactive user experience. The project focuses on working with REST APIs, component-based architecture, and responsive design.
 
 [Little Paws Haven](https://dm1trr1y.github.io/kindcode-project/): a team-based frontend project built as a single-page website. The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews). 
 
 [Coffe Joy](https://wiktor-bruy.github.io/webee-project/)  A coffee shop web application created using HTML, CSS, and JavaScript. Implemented features include community subscription, detailed information about the coffee shop, and a modal window.
 
-[WebStudio](https://olgatildastyle.github.io/goit-markup-hw-06/) A responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections. 
 
 
 
