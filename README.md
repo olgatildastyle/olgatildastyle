@@ -12,10 +12,10 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
@@ -29,11 +29,11 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 💻Featured Projects  
 
-[NoteHub](https://06-notehub-nextjs-eb030xmxv-olga-demchenkos-projects.vercel.app/): This project is a NoteHub Next.js application — a modern note-taking web app built with Next.js. It allows users to create, view, edit, and delete notes within a responsive and intuitive interface. The app highlights server-side rendering, dynamic routing, and efficient state management, showcasing practical experience with Next.js features and modern frontend development.
+[NoteHub](https://06-notehub-nextjs-eb030xmxv-olga-demchenkos-projects.vercel.app/): Full-stack note management app with CRUD functionality, dynamic routing, and server-side rendering.
 
-[React Query](https://04-react-query-sigma-orpin.vercel.app/): This project is a React application built with TanStack React Query for efficient data fetching, caching, and server state management. It demonstrates modern approaches to working with asynchronous data, including API integration, loading and error handling, and optimized performance through built-in caching. The application highlights component-based architecture, clean code structure, and a responsive user interface.
+[React Query](https://04-react-query-sigma-orpin.vercel.app/): React app using TanStack Query for efficient server state management and API caching.
 
-[React Movies](https://03-react-movies-kappa-inky.vercel.app/): This project is a **React Movie Search Application** that allows users to browse trending movies, search by title, and view detailed information such as ratings, overview, cast, and reviews. The application uses modern React features, including routing, API integration, and dynamic data rendering to provide a smooth and interactive user experience. The project focuses on working with REST APIs, component-based architecture, and responsive design.
+[React Movies](https://03-react-movies-kappa-inky.vercel.app/): Movie search SPA with API integration, routing, and dynamic data rendering.
 
 [Little Paws Haven](https://dm1trr1y.github.io/kindcode-project/): a team-based frontend project built as a single-page website. The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews). 
 
