@@ -39,8 +39,9 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 
 🌍 Languages
+![English](https://img.shields.io/badge/English-Beginner-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-![English](https://img.shields.io/badge/English-Basic-blue?style=flat-square)
+
 
 
 
