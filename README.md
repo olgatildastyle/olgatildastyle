@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+apps;Open+to+opportunities)
+
 👋 Hi, I'm Olga Demchenko
  
  Junior Frontend Developer | HTML | CSS | JavaScript | TypeScript | Node.js | React | Next.js
