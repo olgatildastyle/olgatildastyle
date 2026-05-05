@@ -31,8 +31,14 @@ Currently expanding my skills toward **Full Stack development**, actively learni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=olgatildastyle&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgatildastyle&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olgatildastyle&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgatildastyle&layout=compact&theme=tokyonight" />
+</p>
+
 
 💻Featured Projects  
 
