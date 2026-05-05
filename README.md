@@ -32,11 +32,8 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olgatildastyle&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgatildastyle&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olgatildastyle&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgatildastyle&layout=compact&theme=tokyonight"/>
 </p>
 
 
