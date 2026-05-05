@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=200&section=header&text=Olga%20Demchenko&fontSize=40&fontColor=ffffff"/>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E75B6&size=24&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Open+to+internship+and+collaboration+opportunities)
 
 👋 Hi, I'm Olga Demchenko
@@ -29,11 +27,6 @@ Currently expanding my skills toward **Full Stack development**, actively learni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="NPM"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olgatildastyle&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgatildastyle&layout=compact&theme=tokyonight"/>
 </p>
 
 
