@@ -32,7 +32,7 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 💻Featured Projects  
 
-[Leleka-front](https://teem-project-fullstack-front.vercel.app/), [Leleka-back](https://github.com/Wiktor-Bruy/teem-project-fullstack-back): Fullstack app for pregnancy tracking with dashboard, tasks, and diary features. Built with Next.js, Node.js, and MongoDB using modern architecture (App Router, API proxy, server/client separation).
+[Leleka-front](https://teem-project-fullstack-front.vercel.app/), [Leleka-back](https://github.com/Wiktor-Bruy/teem-project-fullstack-back): A team-based fullstack app for pregnancy tracking with dashboard, tasks, and diary features. Built with Next.js, Node.js, and MongoDB using modern architecture (App Router, API proxy, server/client separation).
 
 [NoteHub](https://06-notehub-nextjs-eb030xmxv-olga-demchenkos-projects.vercel.app/): Full-stack note management app with CRUD functionality, dynamic routing, and server-side rendering.
 
@@ -40,7 +40,7 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 [React Movies](https://03-react-movies-kappa-inky.vercel.app/): Movie search SPA with API integration, routing, and dynamic data rendering.
 
-[Little Paws Haven](https://dm1trr1y.github.io/kindcode-project/): a team-based frontend project built as a single-page website. The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews). 
+[Little Paws Haven](https://dm1trr1y.github.io/kindcode-project/): A team-based frontend project built as a single-page website. The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews). 
 
 [Coffe Joy](https://wiktor-bruy.github.io/webee-project/)  A coffee shop web application created using HTML, CSS, and JavaScript. Implemented features include community subscription, detailed information about the coffee shop, and a modal window.
 
