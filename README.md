@@ -32,7 +32,7 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 💻Featured Projects  
 
-[Leleka](https://github.com/Wiktor-Bruy/teem-project-fullstack-front),(https://github.com/Wiktor-Bruy/teem-project-fullstack-back): Fullstack app for pregnancy tracking with dashboard, tasks, and diary features. Built with Next.js, Node.js, and MongoDB using modern architecture (App Router, API proxy, server/client separation).
+[Leleka-front](https://github.com/Wiktor-Bruy/teem-project-fullstack-front), [Leleka-back](https://github.com/Wiktor-Bruy/teem-project-fullstack-back): Fullstack app for pregnancy tracking with dashboard, tasks, and diary features. Built with Next.js, Node.js, and MongoDB using modern architecture (App Router, API proxy, server/client separation).
 
 [NoteHub](https://06-notehub-nextjs-eb030xmxv-olga-demchenkos-projects.vercel.app/): Full-stack note management app with CRUD functionality, dynamic routing, and server-side rendering.
 
