@@ -2,12 +2,13 @@
 
 👋 Hi, I'm Olga Demchenko
  
- Junior Frontend Developer | HTML | CSS | JavaScript | TypeScript | Node.js | React | Next.js
+Frontend / Full Stack Developer | React | Next.js | TypeScript | Node.js
 
-Junior Frontend Developer focused on building clean, responsive, and user-friendly web interfaces using **HTML, CSS, and JavaScript**. I work with modern development tools such as **Vite, NPM, and Git**, and confidently translate **Figma designs** into well-structured UI.
+Frontend-focused developer with hands-on experience in building responsive and scalable web applications using React, Next.js, TypeScript, and Node.js. Skilled in developing modern UI, integrating REST APIs, and working with both frontend and backend technologies.
 
-Currently expanding my skills toward **Full Stack development**, actively learning backend technologies and application architecture. Motivated, fast-learning, and focused on continuous improvement through hands-on practice and real-world projects.
+Experienced in team-based and full-stack projects using Git workflow, pull requests, and code reviews. Confident in creating accessible, responsive, and well-structured interfaces based on Figma designs.
 
+Familiar with App Router, CRUD operations, API integration, MongoDB, and server/client architecture. Focused on writing clean and maintainable code, improving development skills, and contributing to real-world products.
 
 
 🧰 Tech Stack
@@ -32,7 +33,7 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 💻Featured Projects  
 
-[Leleka-front](https://teem-project-fullstack-front.vercel.app/), [Leleka-back](https://github.com/Wiktor-Bruy/teem-project-fullstack-back): A team-based fullstack app for pregnancy tracking with dashboard, tasks, and diary features. Built with Next.js, Node.js, and MongoDB using modern architecture (App Router, API proxy, server/client separation).
+[Leleka Frontend](https://teem-project-fullstack-front.vercel.app/) | [Backend Repository](https://github.com/Wiktor-Bruy/teem-project-fullstack-back): A team-based full-stack pregnancy tracking application with dashboard, tasks, diary, and user-related features. Built with Next.js, TypeScript, Node.js, and MongoDB. The project uses modern architecture with App Router, API routes/proxy, server/client separation, and reusable UI components.
 
 [NoteHub](https://06-notehub-nextjs-eb030xmxv-olga-demchenkos-projects.vercel.app/): Full-stack note management app with CRUD functionality, dynamic routing, and server-side rendering.
 
@@ -42,7 +43,7 @@ Currently expanding my skills toward **Full Stack development**, actively learni
 
 [Little Paws Haven](https://dm1trr1y.github.io/kindcode-project/): A team-based frontend project built as a single-page website. The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews). 
 
-[Coffe Joy](https://wiktor-bruy.github.io/webee-project/)  A coffee shop web application created using HTML, CSS, and JavaScript. Implemented features include community subscription, detailed information about the coffee shop, and a modal window.
+[Coffee Joy](https://wiktor-bruy.github.io/webee-project/)  A coffee shop web application created using HTML, CSS, and JavaScript. Implemented features include community subscription, detailed information about the coffee shop, and a modal window.
 
 
 
