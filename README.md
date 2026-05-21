@@ -35,6 +35,8 @@ Familiar with App Router, CRUD operations, API integration, MongoDB, and server/
 
 [Leleka Frontend](https://teem-project-fullstack-front.vercel.app/) | [Backend Repository](https://github.com/Wiktor-Bruy/teem-project-fullstack-back): A team-based full-stack pregnancy tracking application with dashboard, tasks, diary, and user-related features. Built with Next.js, TypeScript, Node.js, and MongoDB. The project uses modern architecture with App Router, API routes/proxy, server/client separation, and reusable UI components.
 
+[Rental Car](https://rental-car-liard.vercel.app/) – a modern car rental web application built with Next.js and TypeScript. The project includes dynamic routing, API integration, filtering functionality, responsive UI, and reusable component architecture.
+
 [NoteHub](https://06-notehub-nextjs-eb030xmxv-olga-demchenkos-projects.vercel.app/): Full-stack note management app with CRUD functionality, dynamic routing, and server-side rendering.
 
 [React Query](https://04-react-query-sigma-orpin.vercel.app/): React app using TanStack Query for efficient server state management and API caching.
